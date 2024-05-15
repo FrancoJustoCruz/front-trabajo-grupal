@@ -9,9 +9,7 @@ const Dashboard = () => {
           
         </p>
         <div className="mt-6">
-          <button className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-lg focus:outline-none focus:shadow-outline">
-            Comenzar
-          </button>
+          
         </div>
       </div>
     </div>
